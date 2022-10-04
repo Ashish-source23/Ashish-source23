@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 Stats
 
 ![Ashish's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ashish-source23&theme=redical)
-| ![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=Ashish-source23&show_icons=true) | ![Ashish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashish-source23) |
+| ![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=Ashish-source23&show_icons=true) | ![Ashish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashish-source23&theme=redical) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-source23&langs_count=8) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Ashish-source23&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-source23&langs_count=8&theme=redical) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Ashish-source23&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=redical) |
