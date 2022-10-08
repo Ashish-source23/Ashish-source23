@@ -5,7 +5,7 @@
 
 A student of B.Tech. in Computer Science and Engg skilled in React.js, Node.js, JavaScript, CSS, and HTML. I'm a passionate individual who always thrives to work on end-to-end products which develop sustainable and scalable social and technical systems to create impact.  
 
-- 🔭 I’m currently working on ### HTML5, ### CSS3, ### JavaScript, ### Node.js, ### Express, ### ReactJS, ### MongoDB.
+- 🔭 I’m currently working on ###HTML5, ### CSS3, ### JavaScript, ### Node.js, ### Express, ### ReactJS, ### MongoDB.
 
 
 Stats
