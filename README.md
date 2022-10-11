@@ -10,7 +10,7 @@ A student of B.Tech. in Computer Science and Engg skilled in React.js, Node.js, 
 
 Stats
 
-![Ashish's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ashish-source23&theme=radical)
-| ![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=Ashish-source23&show_icons=true&theme=merko) | ![Ashish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashish-source23&theme=redical) |
+![Ashish's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ashish-source23&theme=merko)
+| ![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=Ashish-source23&show_icons=true&theme=merko) | ![Ashish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashish-source23&theme=merko) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-source23&langs_count=8&theme=redical) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Ashish-source23&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=redical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-source23&langs_count=8&theme=merko) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Ashish-source23&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=merko) |
