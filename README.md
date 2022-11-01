@@ -12,7 +12,7 @@ A student of B.Tech. in Computer Science and Engg skilled in React.js, Node.js, 
 - 😄 Words that describe me - Self-motivated, Focused, Hardworking & curious.
 
 <h2>Connect me on </h2>
-<a href="https://www.linkedin.com/in/ashish-diwakar/"><img allign="center" width="32px" src="https://in.linkedin.com/"></a>
+<a href="https://www.linkedin.com/in/ashish-diwakar/"><img align="center" width="32px" src="https://in.linkedin.com/"></a>
 
 ### Stats
 
