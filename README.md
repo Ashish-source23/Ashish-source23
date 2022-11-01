@@ -13,12 +13,12 @@ A student of B.Tech. in Computer Science and Engg skilled in React.js, Node.js, 
 
 
 
-Stats
+### Stats
 
 ![Ashish's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ashish-source23&theme=merko)
 | ![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=Ashish-source23&show_icons=true&theme=merko) | ![Ashish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashish-source23&theme=merko) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-source23&langs_count=8&theme=merko) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Ashish-source23&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=merko) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-source23&langs_count=8&theme=merko&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Ashish-source23&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=merko) |
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
