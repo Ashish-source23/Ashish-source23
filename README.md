@@ -18,6 +18,17 @@ A student of B.Tech. in Computer Science and Engg skilled in React.js, Node.js, 
 <h2>Connect me on </h2>
 <a href="https://www.linkedin.com/in/ashish-diwakar/"><img align="center" width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a>
 
+### Languages and tools
+<a href="https://reactjs.org/"><img src="https://reactjs.org/"></a>
+<a href=""><img src=""></a>
+<a href=""><img src=""></a>
+<a href=""><img src=""></a>
+<a href=""><img src=""></a>
+<a href=""><img src=""></a>
+<a href=""><img src=""></a>
+<a href=""><img src=""></a>
+
+
 ### Stats
 
 ![Ashish's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ashish-source23&theme=merko)
