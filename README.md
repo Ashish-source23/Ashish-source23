@@ -28,9 +28,7 @@ A student of B.Tech. in Computer Science and Engg skilled in React.js, Node.js, 
 <a href="https://getbootstrap.com/"><img width="40px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"></a>
 <a href="https://www.python.org/"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></a>
 <a href="#"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></a>
-<a href="https://www.mongodb.com/"><img width="40px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg"></a>
-<a href=""><img width="40px" src=""></a>
-<a href=""><img width="40px" src=""></a>
+<a href="https://www.mongodb.com/"><img width="60px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg"></a>
 
 
 ### Stats
