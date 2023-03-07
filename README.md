@@ -19,14 +19,18 @@ A student of B.Tech. in Computer Science and Engg skilled in React.js, Node.js, 
 <a href="https://www.linkedin.com/in/ashish-diwakar/"><img align="center" width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a>
 
 ### Languages and tools
-<a href="https://reactjs.org/"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K"></a>
-<a href=""><img src=""></a>
-<a href=""><img src=""></a>
-<a href=""><img src=""></a>
-<a href=""><img src=""></a>
-<a href=""><img src=""></a>
-<a href=""><img src=""></a>
-<a href=""><img src=""></a>
+<a href="https://reactjs.org/"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"></a>
+<a href="https://nodejs.org/en/"><img src="https://nodejs.org/static/images/logo.svg"></a>
+<a href="https://www.postman.com/"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg"></a>
+<a href="#"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></a>
+<a href="#"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></a>
+<a href="#"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/136/136530.png"></a>
+<a href="https://getbootstrap.com/"><img width="40px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"></a>
+<a href="https://www.python.org/"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></a>
+<a href="#"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></a>
+<a href="https://www.mongodb.com/"><img width="40px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg"></a>
+<a href=""><img width="40px" src=""></a>
+<a href=""><img width="40px" src=""></a>
 
 
 ### Stats
