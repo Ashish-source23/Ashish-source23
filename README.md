@@ -2,15 +2,15 @@
 
 <!-- Ashish-source23/Ashish-source23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-A student of B.Tech. in Computer Science and Engg skilled in React.js, Node.js, JavaScript, CSS, and HTML. I'm a passionate individual who always thrives to work on end-to-end products which develop sustainable and scalable social and technical systems to create impact.  
+A student of Computer Science and Engg skilled in React.js, Node.js, JavaScript, CSS, and HTML. I'm a passionate individual who always thrives to work on end-to-end products that develop sustainable and scalable social and technical systems to create impact.  
 
 - 🔭 I’m currently working on HTML5, CSS3, JavaScript,  Node.js, Express, ReactJS, MongoDB.
 
 - 🌱 I’m currently learning ReactJS native
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles.
+- 👯 I’m looking to collaborate on Projects, Tech Articles.
 
-- 💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source.
+- 💬 Talk to me about JavaScript, Freelancing opportunities, and Open Source.
 
 - 😄 Words that describe me - Self-motivated, Focused, Hardworking & curious.
 
