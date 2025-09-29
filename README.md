@@ -20,7 +20,7 @@ A student of Computer Science and Engg skilled in React.js, Node.js, JavaScript,
 
 ### Languages and tools
 <a href="https://reactjs.org/"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"></a>
-<a href="https://nodejs.org/en/"><img widht="40px" src="https://nodejs.org/static/images/logo.svg"></a>
+<a href="https://nodejs.org/en/"><img widht="20px" src="https://nodejs.org/static/images/logo.svg"></a>
 <a href="https://www.postman.com/"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg"></a>
 <a href="#"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></a>
 <a href="#"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></a>
