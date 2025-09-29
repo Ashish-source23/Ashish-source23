@@ -1,7 +1,7 @@
 # Hey👋, I'm Ashish Diwakar
 
 <!-- Ashish-source23/Ashish-source23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-Currently pursuing a Master's Degree (M.Tech) in Computer Science and Engineering from IIT Ropar. I'm skilled in React.js, Node.js, JavaScript, Data Bases and UI/UX. I'm a passionate individual who consistently strives to develop end-to-end products that create sustainable and scalable social and technical systems, driving meaningful impact.
+Currently pursuing a Master's Degree (M.Tech) in Computer Science and Engineering from IIT Ropar. I'm skilled in React.js, Node.js, JavaScript, Databases and UI/UX. I'm a passionate individual who consistently strives to develop end-to-end products that create sustainable and scalable social and technical systems, driving meaningful impact.
 
 - 🔭 I’m currently working on App-Development, Website Development.
 
@@ -19,7 +19,7 @@ Currently pursuing a Master's Degree (M.Tech) in Computer Science and Engineerin
 
 ### Languages and tools
 <a href="https://reactjs.org/"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"></a>
-<a href="https://nodejs.org/en"><img widht="20px" src="https://www.flaticon.com/free-icon/node-js_5968322?term=node+js+logo&page=1&position=1&origin=search&related_id=5968322"></a>
+<a href="https://nodejs.org/en"><img widht="40px" src="https://www.flaticon.com/free-icon/node-js_5968322?term=node+js+logo&page=1&position=1&origin=search&related_id=5968322"></a>
 <a href="https://www.postman.com/"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg"></a>
 <a href="#"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></a>
 <a href="#"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></a>
@@ -32,7 +32,7 @@ Currently pursuing a Master's Degree (M.Tech) in Computer Science and Engineerin
 
 ### Stats
 
-![Ashish's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ashish-source23&theme=merko)
+<!--![Ashish's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ashish-source23&theme=merko)-->
 | ![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=Ashish-source23&show_icons=true&theme=merko) | ![Ashish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashish-source23&theme=merko) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-source23&langs_count=8&theme=merko&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Ashish-source23&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=merko) |
