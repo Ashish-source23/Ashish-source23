@@ -1,8 +1,7 @@
 # Hey👋, I'm Ashish Diwakar
 
 <!-- Ashish-source23/Ashish-source23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-A student of Computer Science and Engineering skilled in React.js, Node.js, JavaScript, CSS, and HTML. I'm a passionate individual who always strives to work on end-to-end products that develop sustainable and scalable social and technical systems to create impact.
+Currently pursuing a Master's Degree (M.Tech) in Computer Science and Engineering from IIT Ropar. I'm skilled in React.js, Node.js, JavaScript, Data Bases and UI/UX. I'm a passionate individual who consistently strives to develop end-to-end products that create sustainable and scalable social and technical systems, driving meaningful impact.
 
 - 🔭 I’m currently working on App-Development, Website Development.
 
@@ -20,7 +19,7 @@ A student of Computer Science and Engineering skilled in React.js, Node.js, Java
 
 ### Languages and tools
 <a href="https://reactjs.org/"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png"></a>
-<a href="https://nodejs.org/en/"><img widht="20px" src="https://nodejs.org/static/images/logo.svg"></a>
+<a href="https://nodejs.org/en"><img widht="20px" src="https://www.flaticon.com/free-icon/node-js_5968322?term=node+js+logo&page=1&position=1&origin=search&related_id=5968322"></a>
 <a href="https://www.postman.com/"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg"></a>
 <a href="#"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></a>
 <a href="#"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></a>
